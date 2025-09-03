@@ -15,7 +15,7 @@ Define each term below by writing a paragraph explaining what it is and why it's
 
 
 ## JavaScript
-
+JavaScript is a core programming language, along with HTML and CSS, that forms 99% of websites on the Internet.
 
 ## Git
 
